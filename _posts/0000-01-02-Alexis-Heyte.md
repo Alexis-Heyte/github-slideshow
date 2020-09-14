@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+J'ai oublié mon casse croute
 Use the left arrow to go back!
